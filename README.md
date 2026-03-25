@@ -17,7 +17,7 @@ Experienced across the full system lifecycle — from **architecture design → 
 
 ---
 
-## 🔥 Core Expertise
+## Core Expertise
 
 - Multi-tenant architecture
 - OLTP vs Analytics workload separation
@@ -57,7 +57,7 @@ Angular, ASP.NET Core, Flutter
 
 ## 💼 Professional Experience
 
-### 🚀 Kokomo Solutions, Inc — *Full Stack / Data Platform Engineer*  
+### Kokomo Solutions, Inc — *Full Stack / Data Platform Engineer*  
 📍 Chicago, IL, USA  
 🗓 2024.02 – Present  
 
@@ -77,7 +77,7 @@ Angular, ASP.NET Core, Flutter
 - Implemented partitioning strategies based on workload
 
 **Impact**
-- 🚀 Reduced dashboard latency by **30%**
+- Reduced dashboard latency by **30%**
 - ⚡ Improved query performance by **40%**
 
 ---
@@ -92,7 +92,7 @@ Angular, ASP.NET Core, Flutter
 
 ---
 
-### 🧠 Tmaxgroup — *Database Engineer (RDBMS Engine Development)*  
+### Tmaxgroup — *Database Engineer (RDBMS Engine Development)*  
 📍 Seongnam, South Korea  
 🗓 2022.01 – 2024.02  
 
@@ -100,15 +100,15 @@ Core member of RDBMS engine team (Optimizer & Statistics modules)
 
 ---
 
-#### 🏗 Engine Development
+#### Engine Development
 
 - Designed index statistics collection modules
 - Identified clustering factor inaccuracies
 - Built dedicated statistics collection node
 
 **Impact**
-- 📈 Achieved **90%+ statistics accuracy improvement**
-- 📊 Improved index scan stability
+- Achieved **90%+ statistics accuracy improvement**
+- Improved index scan stability
 
 ---
 
@@ -125,7 +125,7 @@ Core member of RDBMS engine team (Optimizer & Statistics modules)
 
 ---
 
-#### 🏦 Client Performance Tuning
+#### Client Performance Tuning
 
 - Supported enterprise clients (including banking systems)
 - Analyzed execution plans & removed bottlenecks
@@ -133,14 +133,14 @@ Core member of RDBMS engine team (Optimizer & Statistics modules)
 
 ---
 
-#### 🔧 Legacy System Modernization
+#### Legacy System Modernization
 
 - Migrated legacy C modules → C++
 - Refactored optimizer for extensibility
 
 ---
 
-### 🤖 AIWorkx — *Artificial Intelligence Engineer*  
+### AIWorkx — *Artificial Intelligence Engineer*  
 📍 Seoul, South Korea  
 🗓 2021.09 – 2021.12  
 
@@ -160,7 +160,7 @@ Core member of RDBMS engine team (Optimizer & Statistics modules)
 
 ---
 
-## 🎓 Education
+## Education
 
 ### Hanyang University — *B.S. Information Systems*  
 📍 Seoul, South Korea  
@@ -172,7 +172,7 @@ Core member of RDBMS engine team (Optimizer & Statistics modules)
 
 ---
 
-## 🚀 Summary
+## Summary
 
 - Strong background in **RDBMS internals + cloud systems**
 - Proven experience in **performance optimization at scale**
