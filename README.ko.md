@@ -13,7 +13,7 @@
 
 ---
 
-## 🔥 핵심 역량
+## 핵심 역량
 
 - 대규모 SaaS 플랫폼 아키텍처 설계
 - OLTP / Analytics 워크로드 분리 구조 설계
@@ -27,7 +27,7 @@
 
 ---
 
-## 📬 Contact
+## Contact
 
 - 📍 Seoul, Korea  
 - 📞 +82 10-2804-5097  
@@ -36,12 +36,12 @@
 
 ---
 
-## 🛠 Skills
+## Skills
 
-### 💻 Language
+### Language
 C, C++, C#, Python, TypeScript, SQL, PL/SQL  
 
-### 🗄 Database
+### Database
 Oracle, MySQL, MSSQL, Tibero  
 
 ### ☁ Cloud & Infrastructure
@@ -52,9 +52,9 @@ Angular, ASP.NET Core, Flutter
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-### 🚀 Kokomo Solutions, Inc — *Full Stack / Data Platform Engineer*  
+### Kokomo Solutions, Inc — *Full Stack / Data Platform Engineer*  
 📍 Chicago, IL, USA  
 🗓 2024.02 – 현재  
 
@@ -75,7 +75,7 @@ Angular, ASP.NET Core, Flutter
 - 테이블 워크로드 기반 파티셔닝 전략 적용
 
 **성과**
-- 🚀 대시보드 응답 속도 **30% 개선**
+- 대시보드 응답 속도 **30% 개선**
 - ⚡ 쿼리 성능 **40% 향상**
 
 ---
@@ -90,7 +90,7 @@ Angular, ASP.NET Core, Flutter
 
 ---
 
-### 🧠 Tmaxgroup — *Database Engineer (RDBMS Engine Development)*  
+### Tmaxgroup — *Database Engineer (RDBMS Engine Development)*  
 📍 성남, 대한민국  
 🗓 2022.01 – 2024.02  
 
@@ -98,7 +98,7 @@ RDBMS 엔진 팀 소속 (Optimizer / Statistics 모듈 담당)
 
 ---
 
-#### 🏗 Engine Development
+#### Engine Development
 
 - 인덱스 통계 수집 모듈 설계 및 구현
 - Clustering Factor 부정확성 문제 분석 및 개선
@@ -123,7 +123,7 @@ RDBMS 엔진 팀 소속 (Optimizer / Statistics 모듈 담당)
 
 ---
 
-#### 🏦 고객 지원 및 튜닝
+#### 고객 지원 및 튜닝
 
 - 금융권 포함 엔터프라이즈 고객 대상 SQL 튜닝 지원
 - 실행 계획 분석 및 병목 제거
@@ -131,14 +131,14 @@ RDBMS 엔진 팀 소속 (Optimizer / Statistics 모듈 담당)
 
 ---
 
-#### 🔧 레거시 코드 개선
+#### 레거시 코드 개선
 
 - C 기반 코드 → C++로 마이그레이션
 - 옵티마이저 모듈 리팩토링 (확장성 및 유지보수성 개선)
 
 ---
 
-### 🤖 AIWORKX — *Artificial Intelligence Engineer*  
+### AIWORKX — *Artificial Intelligence Engineer*  
 📍 서울, 대한민국  
 🗓 2021.09 – 2021.12  
 
@@ -158,7 +158,7 @@ RDBMS 엔진 팀 소속 (Optimizer / Statistics 모듈 담당)
 
 ---
 
-## 🎓 Education
+## Education
 
 ### 한양대학교 — *Information System (전공)*  
 📍 서울, 대한민국  
@@ -170,7 +170,7 @@ RDBMS 엔진 팀 소속 (Optimizer / Statistics 모듈 담당)
 
 ---
 
-## 🚀 Summary
+## Summary
 
 - RDBMS 내부 구조 + 클라우드 시스템 모두 경험한 엔지니어
 - 대규모 환경에서 검증된 성능 최적화 경험
