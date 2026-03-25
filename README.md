@@ -1,23 +1,20 @@
-# Resume
+# PROFILE
 
-<p align="right">
-  🇺🇸 English | 🇰🇷 <a href="./README.ko.md">한국어</a>
-</p>
-
-# Eungchan Kang - 강응찬
+## Eungchan Kang - 강응찬
 ### Software Engineer
 
-Full-stack and Data Platform Engineer with **5+ years of professional experience** in designing and operating:
+> Full-stack and Data Platform Engineer with **5+ years of professional experience**
 
-- Multi-tenant SaaS systems  
-- Distributed cloud architectures  
-- Database performance engineering systems  
+> Multi-tenant SaaS systems • Distributed cloud architectures • Database performance engineering
 
-Experienced across the full system lifecycle — from **architecture design → production deployment**
+> Experienced across the full lifecycle  
+> **Architecture design → Production deployment**
 
 ---
 
-## Core Expertise
+## CORE_EXPERTISE
+
+### Core Expertise
 
 - Multi-tenant architecture
 - OLTP vs Analytics workload separation
@@ -25,160 +22,158 @@ Experienced across the full system lifecycle — from **architecture design → 
 - RDBMS internals & execution plan optimization
 - High-performance query tuning & statistics engineering
 
-✔ Designed production-scale systems supporting **thousands of organizations**  
-✔ Delivered **measurable performance improvements in real-world workloads**
+### Impact
+
+- Designed systems supporting **thousands of organizations**
+- Delivered **measurable performance improvements**
 
 ---
 
-## 📬 Contact
+## CONTACT
 
 - 📍 Seoul, Korea  
 - 📞 +82 10-2804-5097  
 - 📧 yeschan119@gmail.com  
-- 🌐 [Portfolio](https://yeschan119.com)
+- 🌐 https://yeschan119.com  
 
 ---
 
-## 🛠 Skills
+## SKILLS
 
-### 💻 Languages
-C, C++, C#, Python, TypeScript, SQL, PL/SQL  
+### Languages
+- C / C++
+- C#
+- Python
+- TypeScript
+- SQL / PL-SQL  
 
-### 🗄 Database
-Oracle, MySQL, MSSQL, Tibero  
+### Database
+- Oracle
+- MySQL
+- MSSQL
+- Tibero  
 
-### ☁ Cloud & Infrastructure
-AWS, Azure, Docker, Git  
+### Cloud & Infrastructure
+- AWS
+- Azure
+- Docker
+- Git  
 
-### ⚙ Framework & Platform
-Angular, ASP.NET Core, Flutter  
+### Framework & Platform
+- Angular
+- ASP.NET Core
+- Flutter  
 
 ---
 
-## 💼 Professional Experience
+## EXPERIENCE: Kokomo Solutions
 
-### Kokomo Solutions, Inc — *Full Stack / Data Platform Engineer*  
+### Role
+Full Stack / Data Platform Engineer  
 📍 Chicago, IL, USA  
 🗓 2024.02 – Present  
 
-#### Key Responsibilities
-- Designed scalable backend systems using **ASP.NET Core MVC**
-- Built Angular-based applications (kiosk, chat, analytics dashboards)
-- Developed REST APIs for real-time incident reporting systems
-- Collaborated across teams to deliver production features
+### Key Responsibilities
+- Designed scalable backend systems using ASP.NET Core MVC
+- Built Angular-based applications (kiosk, chat, dashboards)
+- Developed REST APIs for real-time incident systems
+- Delivered production features through team collaboration
 
----
+### Data Platform & Analytics
+- Built end-to-end analytics dashboards
+- Optimized Views / Indexes for high-frequency queries
+- Applied composite indexes
+- Implemented partitioning strategies
 
-#### 📊 Data Platform & Analytics
+### Impact
+- Reduced dashboard latency **30%**
+- Improved query performance **40%**
 
-- Designed and implemented end-to-end analytics dashboards
-- Built and optimized **Views / Indexes for high-frequency queries**
-- Applied composite indexes on filtering columns
-- Implemented partitioning strategies based on workload
-
-**Impact**
-- Reduced dashboard latency by **30%**
-- ⚡ Improved query performance by **40%**
-
----
-
-#### ⚡ Performance & Database Engineering
-
+### Performance Engineering
 - Tuned MySQL / MSSQL queries under production load
-- Improved overall application performance by **30%**
-- Built database monitoring features
+- Improved overall application performance **30%**
+- Built database monitoring systems
 - Implemented multi-tenant data isolation
-- Reduced client latency via async + parallel API design
+- Reduced latency via async + parallel API
 
 ---
 
-### Tmaxgroup — *Database Engineer (RDBMS Engine Development)*  
+## EXPERIENCE: Tmaxgroup
+
+### Role
+Database Engineer (RDBMS Engine)  
 📍 Seongnam, South Korea  
 🗓 2022.01 – 2024.02  
 
-Core member of RDBMS engine team (Optimizer & Statistics modules)
+### Engine Development
+- Designed index statistics modules
+- Improved clustering factor accuracy
+- Built statistics collection node
 
----
-
-#### Engine Development
-
-- Designed index statistics collection modules
-- Identified clustering factor inaccuracies
-- Built dedicated statistics collection node
-
-**Impact**
-- Achieved **90%+ statistics accuracy improvement**
+### Impact
+- Achieved **90%+ accuracy improvement**
 - Improved index scan stability
 
----
+### Query Optimization
+- Implemented SQL Tuning Advisor
+- Implemented SQL Plan Management (SPM)
+- Developed optimizer in C++
 
-#### ⚙ Query Optimization & Plan Management
+### Performance Improvements
+- 5s → 1s
+- 3s → 0.8s
+- 827ms → 27ms
 
-- Implemented **SQL Tuning Advisor**
-- Implemented **SQL Plan Management (SPM)**
-- Developed optimizer logic in **C++**
+### Client Tuning
+- Supported enterprise clients
+- Analyzed execution plans
+- Tuned stored procedures and indexes
 
-**Performance Improvements**
-- Join selectivity: **5s → 1s**
-- OR-condition optimization: **3s → 0.8s**
-- Feature execution: **827ms → 27ms**
-
----
-
-#### Client Performance Tuning
-
-- Supported enterprise clients (including banking systems)
-- Analyzed execution plans & removed bottlenecks
-- Tuned stored procedures and indexing strategies
+### Legacy Modernization
+- Migrated C → C++
+- Refactored optimizer architecture
 
 ---
 
-#### Legacy System Modernization
+## EXPERIENCE: AIWorkx
 
-- Migrated legacy C modules → C++
-- Refactored optimizer for extensibility
-
----
-
-### AIWorkx — *Artificial Intelligence Engineer*  
+### Role
+Artificial Intelligence Engineer  
 📍 Seoul, South Korea  
 🗓 2021.09 – 2021.12  
 
----
+### AI Vision
+- Built image segmentation systems
+- Developed YOLO-based Edge AI
 
-#### AI Vision Development
-
-- Built AI vision systems using image segmentation
-- Developed edge AI software using **YOLO object detection**
-
----
-
-#### Research & Presentation
-
-- Studied and presented AI vision papers
-- Optimized algorithm selection and implementation
+### Research
+- Studied and presented AI papers
+- Optimized algorithm selection
 
 ---
 
-## Education
+## EDUCATION
 
-### Hanyang University — *B.S. Information Systems*  
+### Hanyang University
+B.S. Information Systems  
 📍 Seoul, South Korea  
 🗓 2018.02 – 2022.02  
 
 - Minor: Computer Science  
-- GPA: **4.18 / 4.5**  
-- Major GPA: **4.32 / 4.5**
+- GPA: 4.18 / 4.5  
+- Major GPA: 4.32 / 4.5  
 
 ---
 
-## Summary
+## SUMMARY
 
-- Strong background in **RDBMS internals + cloud systems**
-- Proven experience in **performance optimization at scale**
-- Hands-on engineer across **full-stack + data platform**
-- Experienced in **production-grade system design**
+- Strong background in RDBMS + Cloud systems
+- Proven performance optimization at scale
+- Full-stack + Data Platform engineering
+- Production-grade system design experience
 
 ---
 
-⭐ *Focused on building scalable, high-performance data systems and database-driven platforms*
+## TAGLINE
+
+> Focused on building scalable, high-performance data systems
